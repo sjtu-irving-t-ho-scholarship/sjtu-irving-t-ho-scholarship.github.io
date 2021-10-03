@@ -12,4 +12,4 @@ menu:
 
 [第二期2011~2020](/donors/donors2nd)
 
-[第三期2021~](/donors/donors3rd)
+[第三期2021~2026](/donors/donors3rd)

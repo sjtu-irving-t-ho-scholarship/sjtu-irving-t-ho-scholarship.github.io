@@ -5,14 +5,6 @@ date: 2021-10-01
 linktitle: Sah
 tags:
   - "photo stories"
-  # - "go"
-  # - "golang"
-  # - "templates"
-  # - "themes"
-  # - "development"
-# categories:
-#   - "Development"
-#   - "golang"
 menu: 
   main:
     name: News
@@ -26,4 +18,7 @@ menu:
 [2016~2018](/photostories/2016) \
 [2019~2021](/photostories/2019)
 
-
+[安福县瓜畲百爱爱心小学](/photostories/school) \
+[Album](/img/photostory/Photo_album.pdf) \
+[signing ceremony](/photostories/signing) \
+[book donation to SJTU Uncle Bang](/photostories/book)
