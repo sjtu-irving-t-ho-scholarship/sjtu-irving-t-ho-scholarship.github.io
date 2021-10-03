@@ -1,17 +1,10 @@
 ---
 # title: "Biography of President Pen-Tung Sah"
 title: Biography of President Pen-Tung Sah
-date: 2021-03-10
+date: 2021-10-01
 linktitle: Sah
 tags:
-  - "go"
-  - "golang"
-  - "templates"
-  - "themes"
-  - "development"
-# categories:
-#   - "Development"
-#   - "golang"
+  - "introduction"
 menu: 
   main:
     name: About President Sah

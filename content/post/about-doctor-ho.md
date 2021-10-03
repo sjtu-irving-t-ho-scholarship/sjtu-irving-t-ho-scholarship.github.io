@@ -1,13 +1,9 @@
 ---
 title: Biography of Dr. Irving T. Ho
-date: 2021-03-10
+date: 2021-10-01
 linktitle: About Dr. Ho
 tags:
-  - "go"
-  - "golang"
-  - "templates"
-  - "themes"
-  - "development"
+  - "introduction"
 # categories:
 #   - "Development"
 #   - "golang"
@@ -17,7 +13,6 @@ menu:
     weight: 12
 ---
 
-<!-- ## Biography of Dr. Irving T. Ho -->
 在太平洋东岸，美国加利福尼亚州硅谷的光环照耀世界高科技领域；在太平洋西岸，另一个"硅谷"中国台湾新竹科技园也一样璀璨夺目，享誉世界。而创造台湾"硅谷"奇迹的是世界著名高科技产业专家何宜慈博士。
 
 何博士祖籍闽东寿宁县斜滩镇。1940年，何宜慈从福州考入内迁长汀的厦门大学，成为厦大新创办的机电系第一届学生。正值抗日战争的烽火岁月，国难当头，厦大在世界著名物理学家萨本栋校长的领导下，艰苦办学。在萨本栋博士的亲自关怀和培养下，何宜慈尽情地汲取着科学知识，四年寒窗苦读，使他奋飞的羽翼日渐丰满。

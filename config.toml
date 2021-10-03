@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "上海交通大学何宜慈博士纪念奖学金" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
