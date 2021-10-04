@@ -3,7 +3,7 @@ title: The Fundraising from 2021 to 2026
 date: 2021-10-01
 linktitle: fundraising
 tags:
-  - - "introduction"
+  - "introduction"
 ---
 
 **Q: 为什么要参加上海交通大学何宜慈博士纪念奖学金募捐计划？**\

@@ -1,18 +1,9 @@
 ---
-# title: "Biography of President Pen-Tung Sah"
 title: The Fundraising
 date: 2021-10-01
 linktitle: fundraising
 tags:
-  - - "introduction"
-  # - "go"
-  # - "golang"
-  # - "templates"
-  # - "themes"
-  # - "development"
-# categories:
-#   - "Development"
-#   - "golang"
+  - "introduction"
 menu: 
   main:
     name: fundraising

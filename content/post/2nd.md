@@ -3,7 +3,7 @@ title: The Fundraising from 2011 to 2020
 date: 2021-10-01
 linktitle: fundraising
 tags:
-  - - "introduction"
+  - "introduction"
   # - "go"
   # - "golang"
   # - "templates"

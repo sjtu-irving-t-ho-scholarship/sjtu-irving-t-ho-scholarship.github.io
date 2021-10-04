@@ -6,7 +6,7 @@
     <description>Recent content on SJTU Irving T. Ho Scholarships</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,6 +24,16 @@
 2003年4月14日，何宜慈先生病逝于美国加州。
 为纪念何宜慈先生并回馈社会，王荣腾博士与近十位何宜慈先生的在美、在台学生已筹募近3000万元，除于2004年以 500万元在台北市成立“财团法人何宜慈科技发展教育基金会”（Irving T. Ho Memorial Foundation） 之外，其中1000万元将优先使用于台湾大学电机信息学院，设立『何宜慈讲座教授』名额。同时在美国史丹佛大学电机系设立『何宜慈研究生奖学金。』
 当年何宜慈先生奉命筹创新竹科学工业园区及荣聘担任资策会执行长，如今造就了不少享誉国际的公司及企业家；为进一步协助国家培育科技人才，期企业界共襄盛举，筹足其余的2000万元，以在台湾大学电机信息学院，设立『永久性何宜慈讲座教授』名额。</description>
+    </item>
+    
+    <item>
+      <title>The Fundraising</title>
+      <link>/foundraising/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/foundraising/</guid>
+      <description>上海交通大学“何宜慈博士纪念奖学金”（SJTU Irving T. Ho Memorial Scholarship）于2004年设立，首期基金由萨本栋教育科研基金会及何宜慈科技发展教育基金会捐赠；第二期基金由王荣腾博士及王辉、徐辉、沈程杳三位上海交大校友倡议捐赠，获得20余位校友及来自清华大学、台湾大学等高校爱心人士的支持；第三期由王荣腾博士及王瑾、徐辉、杜家全等11位海内外校友共同发起，获得51位校友及爱心人士的响应支持。“何宜慈博士纪念奖学金”面向致远学院和电子信息与电气工程学院，每年奖励4名优秀本科学生。
+何宜慈先生（1921—2003），早年毕业于厦门大学，后赴斯坦福大学荣获电机工程博士，并曾在IBM公司从事科技研发工作。1974年何博士受聘为台湾大学远东讲座教授，桃李天下。何宜慈博士纪念奖学是由他的学生王荣腾博士（斯坦福大学博士、IEEE Fellow），为纪念老师何宜慈博士而倡导设立的，主要奖励上海交通大学、台湾大学和清华大学三所高校的青年学生，鼓励学生赴美深造，pay it forward。</description>
     </item>
     
     <item>
@@ -71,16 +81,6 @@ A: 当然可以。参与募捐计划的任何一部分，我们都无任欢迎�
 Q: 捐款额是限定的吗？可不可以少捐/多捐？
 A: 目前募捐计划中的捐款金额（第一阶段300美元，第二阶段500美元）都是预计的个人捐款上限。根据最后参加募捐的人数，捐款额可能会降低。如果捐款人根据自己的情况要求降低或者增加捐款金额，我们当然会尊重捐款人的意愿。无论捐助多少金额，我们都无任欢迎，不胜感激。
 Q: 可不可以看到捐款者名单？</description>
-    </item>
-    
-    <item>
-      <title>The Fundraising</title>
-      <link>/post/foundraising/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/foundraising/</guid>
-      <description>上海交通大学“何宜慈博士纪念奖学金”（SJTU Irving T. Ho Memorial Scholarship）于2004年设立，首期基金由萨本栋教育科研基金会及何宜慈科技发展教育基金会捐赠；第二期基金由王荣腾博士及王辉、徐辉、沈程杳三位上海交大校友倡议捐赠，获得20余位校友及来自清华大学、台湾大学等高校爱心人士的支持；第三期由王荣腾博士及王瑾、徐辉、杜家全等11位海内外校友共同发起，获得51位校友及爱心人士的响应支持。“何宜慈博士纪念奖学金”面向致远学院和电子信息与电气工程学院，每年奖励4名优秀本科学生。
-何宜慈先生（1921—2003），早年毕业于厦门大学，后赴斯坦福大学荣获电机工程博士，并曾在IBM公司从事科技研发工作。1974年何博士受聘为台湾大学远东讲座教授，桃李天下。何宜慈博士纪念奖学是由他的学生王荣腾博士（斯坦福大学博士、IEEE Fellow），为纪念老师何宜慈博士而倡导设立的，主要奖励上海交通大学、台湾大学和清华大学三所高校的青年学生，鼓励学生赴美深造，pay it forward。</description>
     </item>
     
     <item>
@@ -249,23 +249,11 @@ wars \</description>
 2010~2012
 2013~2015
 2016~2018
-2019~2021 Album
+2019~2021
+Album
 book donation book donation to SJTU Uncle Bang
 爱心小学 安福县瓜畲百爱爱心小学
 奖学金签署仪式 signing ceremony</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- test Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
     </item>
     
   </channel>
