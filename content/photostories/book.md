@@ -3,7 +3,7 @@ title: book donation
 date: 2021-10-01
 linktitle: Sah
 tags:
-  - "photo stories"
+  - "photo"
 ---
 
 ### economy

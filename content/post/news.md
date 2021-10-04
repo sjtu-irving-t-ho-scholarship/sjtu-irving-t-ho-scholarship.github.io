@@ -4,7 +4,7 @@ title: News
 date: 2021-10-01
 linktitle: Sah
 tags:
-  - "photo stories"
+  - "photo"
 menu: 
   main:
     name: News
@@ -17,8 +17,16 @@ menu:
 [2013~2015](/photostories/2013) \
 [2016~2018](/photostories/2016) \
 [2019~2021](/photostories/2019)
+[Album](/img/photostory/Photo_album.pdf)
 
-[安福县瓜畲百爱爱心小学](/photostories/school) \
-[Album](/img/photostory/Photo_album.pdf) \
-[signing ceremony](/photostories/signing) \
+## book donation
+
 [book donation to SJTU Uncle Bang](/photostories/book)
+
+## 爱心小学
+
+[安福县瓜畲百爱爱心小学](/photostories/school)
+
+## 奖学金签署仪式
+
+[signing ceremony](/photostories/signing)

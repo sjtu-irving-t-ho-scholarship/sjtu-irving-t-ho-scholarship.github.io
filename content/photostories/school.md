@@ -3,7 +3,7 @@ title: 安福县瓜畲百爱爱心小学
 date: 2021-10-01
 linktitle: Sah
 tags:
-  - "photo stories"
+  - "photo"
 ---
 
 ![1](/img/photostory/35.JPG) 
