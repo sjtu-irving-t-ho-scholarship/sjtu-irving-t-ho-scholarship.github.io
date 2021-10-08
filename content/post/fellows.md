@@ -1,6 +1,6 @@
 ---
 # title: "Biography of President Pen-Tung Sah"
-title: List of Ivring T. Ho Fellows 
+title: List of Irving T. Ho Fellows 
 date: 2021-10-01
 linktitle: Sah
 tags:

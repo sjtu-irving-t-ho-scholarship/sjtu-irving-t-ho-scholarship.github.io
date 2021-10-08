@@ -10,6 +10,10 @@ menu:
     name: News
 ---
 
+## 上海交通大学何宜慈博士纪念奖学金募捐信
+
+[上海交通大学何宜慈博士纪念奖学金募捐信](/mis/letter)
+
 ## Photo Stories
 
 [before 2009](/photostories/2004) \
@@ -21,7 +25,7 @@ menu:
 
 ## book donation
 
-[book donation to SJTU Uncle Bang](/photostories/book)
+[Uncle Bang's book donation to SJTU](/photostories/book)
 
 ## 爱心小学
 
