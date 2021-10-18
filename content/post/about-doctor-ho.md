@@ -4,9 +4,6 @@ date: 2021-10-01
 linktitle: About Dr. Ho
 tags:
   - "introduction"
-# categories:
-#   - "Development"
-#   - "golang"
 menu: 
   main:
     name: About Dr. Ho

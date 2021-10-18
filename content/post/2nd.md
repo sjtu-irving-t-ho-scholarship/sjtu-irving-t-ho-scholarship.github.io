@@ -4,18 +4,6 @@ date: 2021-10-01
 linktitle: fundraising
 tags:
   - "introduction"
-  # - "go"
-  # - "golang"
-  # - "templates"
-  # - "themes"
-  # - "development"
-# categories:
-#   - "Development"
-#   - "golang"
-# menu: 
-#   main:
-#     name: fundraising
-#     weight: 10
 ---
 
 Ladies and Gentlemen,
