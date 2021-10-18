@@ -14,7 +14,7 @@ menu:
 
 | Name                              | Year of Class | Latest Graduate School                     |
 | --------------------------------- | ------------- | ------------------------------------------ |
-| Dr. Jin (Jane) Wang (王瑾)      | S2004 | Georgia Institute of Technology            |
+| Dr. Jin Wang (王瑾)      | S2004 | Georgia Institute of Technology            |
 | Ms. Yang Gao (高阳)             | S2004 | Technische Universitaet Muenchen, Germany  |
 | Hongmin Fan (范鸿敏)           | S2004 | Cornell University                         |
 | Lingquan Zeng (曾令全)         | S2004 | Shanghai Jiao Tong University              |
@@ -71,7 +71,7 @@ menu:
 | Ms. Ting Zhou (周婷)            | S2019 | Shanghai Jiao Tong University              |
 | Yihao Xue (薛翌豪)             | S2019 | Shanghai Jiao Tong University              |
 | Ms. Jingtong (Vivian) Mo (莫婧彤) | S2019 | Shanghai Jiao Tong University              |
-| Zhengqi Xu (许正奇)            | S2019 | Shanghai Jiao Tong University              |
+| Zhengqi Xu (许正奇)            | S2019 | University of Michigan, Ann Arbor              |
 | Zihan Lian (连子涵)            | S2020 | Shanghai Jiao Tong University              |
 | Kunyue Li (李坤岳)             | S2020 | Shanghai Jiao Tong University              |
 | Shengkai Lin (林圣凯)          | S2020 | Shanghai Jiao Tong University              |
