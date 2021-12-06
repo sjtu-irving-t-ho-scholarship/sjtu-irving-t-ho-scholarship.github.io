@@ -76,5 +76,9 @@ menu:
 | Kunyue Li (李坤岳)             | S2020 | Shanghai Jiao Tong University              |
 | Shengkai Lin (林圣凯)          | S2020 | Shanghai Jiao Tong University              |
 | Tianchen Yu (于天辰)           | S2020 | Shanghai Jiao Tong University              |
+| Qingxun Wang (王清训)            | S2021 | Shanghai Jiao Tong University              |
+| Duo Yu (余多)             | S2021 | Shanghai Jiao Tong University              |
+| Yangtian Zhang (张扬天)          | S2021 | Shanghai Jiao Tong University              |
+| Lingyue Fu (傅凌玥)           | S2021 | Shanghai Jiao Tong University              |
 
 **Please refer to [FELLOWS](https://irvingthofoundation.github.io/ho-fellows.htm) for fellows from other universities.**
