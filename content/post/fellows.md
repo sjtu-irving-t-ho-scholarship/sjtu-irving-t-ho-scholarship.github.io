@@ -7,6 +7,7 @@ tags:
 menu: 
   main:
     name: Fellows
+    weight: 21
 ---
 
 ## Shanghai Jiao Tong University

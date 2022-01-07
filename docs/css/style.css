@@ -588,6 +588,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	margin-bottom: 1.25rem;
 }
 
+.post__content {
+    text-align: justify;
+}
+
 .meta {
 	font-size: 13px;
 	font-size: .8125rem;
