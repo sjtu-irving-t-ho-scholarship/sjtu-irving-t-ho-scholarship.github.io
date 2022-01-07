@@ -13,7 +13,7 @@ menu:
 #### 联系我们 Contact Us
 * 王瑾 (Jin Wang) wangjin.jane@gmail.com
 * 徐辉 (Alfred Xu) alfred.h.xu@gmail.com
-* 杜家全 (Gavin Du) dug2@airproducts.com
+* 杜家全 (Gavin Du)
 * 胡翰彬 (Hanbin Hu) hanbinhu2016@gmail.com
 
 #### 网站设计 Website Design
