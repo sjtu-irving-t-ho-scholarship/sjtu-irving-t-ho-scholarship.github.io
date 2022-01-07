@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/pearls/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/pearls/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/about-doctor-ho/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,17 +73,17 @@
   </url>
   
   <url>
+    <loc>/donors/pearldonors/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/photo/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/photostories/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +159,6 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
