@@ -1,4 +1,4 @@
-baseurl = "https://sjtu-irving-t-ho-scholarship.github.io/"
+baseurl = "/"
 title = "SJTU Irving T. Ho Scholarships"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page

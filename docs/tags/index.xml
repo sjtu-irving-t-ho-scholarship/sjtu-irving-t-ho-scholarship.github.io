@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SJTU Irving T. Ho Scholarships</title>
-    <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on SJTU Irving T. Ho Scholarships</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sjtu-irving-t-ho-scholarship.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Donors</title>
-      <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/donors/</link>
+      <link>/tags/donors/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sjtu-irving-t-ho-scholarship.github.io/tags/donors/</guid>
+      <guid>/tags/donors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pearls</title>
-      <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/pearls/</link>
+      <link>/tags/pearls/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sjtu-irving-t-ho-scholarship.github.io/tags/pearls/</guid>
+      <guid>/tags/pearls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fellows</title>
-      <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/fellows/</link>
+      <link>/tags/fellows/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sjtu-irving-t-ho-scholarship.github.io/tags/fellows/</guid>
+      <guid>/tags/fellows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>introduction</title>
-      <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/introduction/</link>
+      <link>/tags/introduction/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sjtu-irving-t-ho-scholarship.github.io/tags/introduction/</guid>
+      <guid>/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photo</title>
-      <link>https://sjtu-irving-t-ho-scholarship.github.io/tags/photo/</link>
+      <link>/tags/photo/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sjtu-irving-t-ho-scholarship.github.io/tags/photo/</guid>
+      <guid>/tags/photo/</guid>
       <description></description>
     </item>
     
