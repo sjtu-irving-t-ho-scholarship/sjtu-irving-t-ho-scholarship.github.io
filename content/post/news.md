@@ -8,6 +8,7 @@ tags:
 menu: 
   main:
     name: News
+    weight: 30
 ---
 
 ## 上海交通大学何宜慈博士纪念奖学金募捐信

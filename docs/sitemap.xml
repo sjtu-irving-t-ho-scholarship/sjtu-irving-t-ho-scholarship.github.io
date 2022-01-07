@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/mis/contact/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/contact-us/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mis/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/donors/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +49,6 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,11 +84,6 @@
   
   <url>
     <loc>/tags/introduction/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/mis/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   

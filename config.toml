@@ -7,6 +7,9 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+  unsafe=true
+
 [Author]
   name = "SJTU Irving T. Ho Group"
 
