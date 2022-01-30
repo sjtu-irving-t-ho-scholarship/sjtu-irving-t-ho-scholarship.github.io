@@ -6,10 +6,19 @@
     <description>Recent content in Photostories on SJTU Irving T. Ho Scholarships</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/photostories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 Photo Stories</title>
+      <link>/photostories/2022/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/photostories/2022/</guid>
+      <description>2022年1月交大fellow聚会 傅凌玥、王清训、杜家全、徐辉、俞嘉力、余多、张扬天</description>
+    </item>
     
     <item>
       <title>2004 Photo Stories</title>
