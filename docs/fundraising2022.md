@@ -4,7 +4,7 @@
 
 　　顺颂
 
-秋安
+冬安
 
 <p style="text-align: right">
 王瑾（07届本科校友，04年奖学金获得者）</p>
@@ -47,9 +47,14 @@
 
 
 <p style="text-align: right">
-二零二二年十二月</p>
+二零二二年十一月</p>
 
-# **上海交通大学何宜慈博士纪念奖学金第二阶段募捐计划**
+
+
+# **上海交通大学何宜慈博士纪念奖学金**
+
+
+# **第二阶段募捐计划**
 
 
 ## **概述**
@@ -63,14 +68,13 @@
 
 　　何宜慈科技发展教育基金会由包括SynTest Technologies (华腾科技公司) 董事长王荣腾博士 (Dr. Laung-Terng Wang)在内的近十位何宜慈博士在美、在台的学生发起成立，主要致力于资助和支持教育、科研事业。该基金在美国斯坦福大学、台湾大学、北京清华大学和上海交通大学分别设立奖学金。
 
-　　『上海交通大学何宜慈博士纪念奖学金』成立于2004年，2004-2010年由萨本栋科技发展基金会及何宜慈科技发展教育基金会捐资。2011年，由上海交通大学三名该奖学金的获得者王辉 (09届)，徐辉 (09届)，沈程杳 (10届) 发起筹款，获得20名爱心人士 ([捐赠者名单](https://irvingthofoundation.github.io/our-donors.htm)) 慷慨解囊，共计筹款11万元人民币，上海交通大学配资10万元人民币，以延续该奖学金至2020年。奖学金主要奖励、资助品学兼优、家境贫寒的本科生，除2010年暂停一年以外，每年奖励4名学生 (2015年奖励2名学生)，每人5000元人民币。
-
-　　奖学金的设立本在2020年结束，为了能够继续传承奖学金创始人和捐赠人的助人精神，回馈母校，本募捐计划的发起人于2021年进行了[第一阶段募捐计划](https://sjtu-irving-t-ho-scholarship.github.io/mis/letter/)，获得51名捐赠者的捐款共计22,044美元（约15万元人民币），并获得上海交通大学基金会10万元人民币的配捐。奖学金设置在电子信息与电气工程学院和致远学院ACM班及计算机方向(与电院联合培养)，共计发放6年，每年资助4-5名学生，每名学生8000元人民币。
-  
-　　截止2021年底，共计有66名学生受益于奖学金的资助（[奖学金获得者名单](https://sjtu-irving-t-ho-scholarship.github.io/post/fellows/))。
+　　『上海交通大学何宜慈博士纪念奖学金』成立于2004年，2004-2010年由萨本栋科技发展基金会及何宜慈科技发展教育基金会捐资。2011年，由上海交通大学三名该奖学金的获得者王辉 (09届)，徐辉 (09届)，沈程杳 (10届) 发起筹款，获得20名爱心人士 ([捐赠者名单](https://irvingthofoundation.github.io/our-donors.htm)) 慷慨解囊，共计筹款11万元人民币，上海交通大学配资10万元人民币，以延续该奖学金至2020年。奖学金主要奖励、资助品学兼优、家境贫寒的本科生，除2010年暂停一年以外，每年奖励4名学生 (2015年奖励2名学生)，每人5000元人民币。截止2020年底，共计有62名学生受益于奖学金的资助（[奖学金获得者名单](https://irvingthofoundation.github.io/ho-fellows.htm)）。
 
 
 ## **募捐发起人**
+
+
+
 * 王荣腾（何宜慈基金会创始人及董事长，上海交通大学何宜慈博士纪念奖学金创始人）
 * 王瑾（07届本科校友，04年奖学金获得者）
 * 徐辉（09届本科校友，07及08年奖学金获得者）
@@ -172,10 +176,14 @@
 　　如果您有对本次募捐有兴趣，或者有任何问题、意见或建议，请随时联系我们。
 
 　　Email: sjtu.irving.t.ho.scholarship@gmail.com
-  
-## 附件
-* [交大电子信息与电气工程学院校友会关于本次捐赠的分享文章](https://mp.weixin.qq.com/s?__biz=MzU1MzcyMTI1NQ==&mid=2247485023&idx=1&sn=f10c48b9bf36cb79dc6d80988aa95ce3&chksm=fbefca97cc9843812be5f5322d11c1bee35f68303f1a38b3ca4afe5e22163eb0ff7ed5e00a3d&mpshare=1&srcid=0414XfaJTvfnmTsikkTXJzt2&sharer_sharetime=1618411888595&sharer_shareid=bc205c3585cc6b9dc4ee85768e840599&scene=1&subscene=10000&clicktime=1621075620&enterid=1621075620&ascene=1&devicetype=android-29&version=27001543&nettype=WIFI&lang=zh_CN&exportkey=CYXT1GlvLHkf4TU3GTYhYko%3D&pass_ticket=NMQkA5weT%2FQxf2etgBNnmdNfoIUrdNXsL6FeeT9mLl3DM3PXZPavYApj8zJtZ7%2Fz&wx_header=1)
-* [交大基金会关于捐赠协议签定的新闻](https://foundation.sjtu.edu.cn/news/view/1151)
-* [上海交通大学何宜慈博士纪念奖学金捐赠者名单](https://www.evernote.com/shard/s484/client/snv?noteGuid=47d3739a-bfc8-97e6-d612-3e19d605e987&noteKey=602228350f51c7d88592fe31bb4adca9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs484%2Fsh%2F47d3739a-bfc8-97e6-d612-3e19d605e987%2F602228350f51c7d88592fe31bb4adca9&title=%25E4%25B8%258A%25E6%25B5%25B7%25E4%25BA%25A4%25E9%2580%259A%25E5%25A4%25A7%25E5%25AD%25A6%25E4%25BD%2595%25E5%25AE%259C%25E6%2585%2588%25E5%258D%259A%25E5%25A3%25AB%25E7%25BA%25AA%25E5%25BF%25B5%25E5%25A5%2596%25E5%25AD%25A6%25E9%2587%2591%25E6%258D%2590%25E8%25B5%25A0%25E8%2580%2585%25E5%2590%258D%25E5%258D%2595)
+
+
+## **附件**
+
+
+
+* [交大电子信息与电气工程学院校友会关于第一阶段捐赠的分享文章](https://mp.weixin.qq.com/s?__biz=MzU1MzcyMTI1NQ==&mid=2247485023&idx=1&sn=f10c48b9bf36cb79dc6d80988aa95ce3&chksm=fbefca97cc9843812be5f5322d11c1bee35f68303f1a38b3ca4afe5e22163eb0ff7ed5e00a3d&mpshare=1&srcid=0414XfaJTvfnmTsikkTXJzt2&sharer_sharetime=1618411888595&sharer_shareid=bc205c3585cc6b9dc4ee85768e840599&scene=1&subscene=10000&clicktime=1621075620&enterid=1621075620&ascene=1&devicetype=android-29&version=27001543&nettype=WIFI&lang=zh_CN&exportkey=CYXT1GlvLHkf4TU3GTYhYko%3D&pass_ticket=NMQkA5weT%2FQxf2etgBNnmdNfoIUrdNXsL6FeeT9mLl3DM3PXZPavYApj8zJtZ7%2Fz&wx_header=1)
+* [交大基金会关于第一阶段捐赠协议签定的新闻](https://foundation.sjtu.edu.cn/news/view/1151)
+* [上海交通大学何宜慈博士纪念奖学金第一阶段捐赠者名单](https://www.evernote.com/shard/s484/client/snv?noteGuid=47d3739a-bfc8-97e6-d612-3e19d605e987&noteKey=602228350f51c7d88592fe31bb4adca9&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs484%2Fsh%2F47d3739a-bfc8-97e6-d612-3e19d605e987%2F602228350f51c7d88592fe31bb4adca9&title=%25E4%25B8%258A%25E6%25B5%25B7%25E4%25BA%25A4%25E9%2580%259A%25E5%25A4%25A7%25E5%25AD%25A6%25E4%25BD%2595%25E5%25AE%259C%25E6%2585%2588%25E5%258D%259A%25E5%25A3%25AB%25E7%25BA%25AA%25E5%25BF%25B5%25E5%25A5%2596%25E5%25AD%25A6%25E9%2587%2591%25E6%258D%2590%25E8%25B5%25A0%25E8%2580%2585%25E5%2590%258D%25E5%258D%2595)
 * [王荣腾博士致捐赠者感谢信](https://www.evernote.com/shard/s484/sh/ea358922-67b5-7657-2677-22dce352ab1e/f94c998a57a727ada1df282d63ae640e)
-* [上海交通大学何宜慈博士纪念奖学金募捐信](https://www.evernote.com/shard/s484/sh/a0312fc4-311f-805d-27a6-7728e8e4977d/21b39a303dac482cd3528d4fdaa24e1a)
+* [上海交通大学何宜慈博士纪念奖学金第一阶段募捐信](https://www.evernote.com/shard/s484/sh/a0312fc4-311f-805d-27a6-7728e8e4977d/21b39a303dac482cd3528d4fdaa24e1a)
