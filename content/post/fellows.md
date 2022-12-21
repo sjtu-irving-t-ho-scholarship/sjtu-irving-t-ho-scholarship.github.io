@@ -80,5 +80,9 @@ menu:
 | Duo Yu (余多)             | S2021 | Shanghai Jiao Tong University              |
 | Yangtian Zhang (张扬天)          | S2021 | Shanghai Jiao Tong University              |
 | Lingyue Fu (傅凌玥)           | S2021 | Shanghai Jiao Tong University              |
+| Jingkun Duan (段靖坤)           | S2022 | Shanghai Jiao Tong University              |
+| Zhuohao Li (李卓壕)           | S2022 | Shanghai Jiao Tong University              |
+| Qijia Fan (范棋珈)           | S2022 | Shanghai Jiao Tong University              |
+| Tianle Wang (王天乐)           | S2022 | Shanghai Jiao Tong University              |
 
 **Please refer to [FELLOWS](https://irvingthofoundation.github.io/ho-fellows.htm) for fellows from other universities.**
