@@ -84,5 +84,9 @@ menu:
 | Zhuohao Li (李卓壕)           | S2022 | Shanghai Jiao Tong University              |
 | Qijia Fan (范棋珈)           | S2022 | Shanghai Jiao Tong University              |
 | Tianle Wang (王天乐)           | S2022 | Shanghai Jiao Tong University              |
+| Shuoqi Fu (傅铄棋)    | S2023 | Shanghai Jiao Tong University |
+| Yitian Chen (陈弈天)  | S2023 | Shanghai Jiao Tong University |
+| Ruiming Chen (陈瑞茗) | S2023 | Shanghai Jiao Tong University |
+| Siyuan Huang (黄思远) | S2023 | Shanghai Jiao Tong University |
 
 **Please refer to [FELLOWS](https://irvingthofoundation.github.io/ho-fellows.htm) for fellows from other universities.**
