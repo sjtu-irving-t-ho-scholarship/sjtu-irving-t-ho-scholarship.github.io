@@ -2,114 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/photo/</loc>
+    <loc>//localhost:1313/tags/photo/</loc>
     <lastmod>2024-02-09T16:38:36+08:00</lastmod>
   </url><url>
-    <loc>/photostories/</loc>
+    <loc>//localhost:1313/photostories/</loc>
     <lastmod>2024-02-09T16:38:36+08:00</lastmod>
   </url><url>
-    <loc>/photostories/2023/</loc>
+    <loc>//localhost:1313/photostories/2023/</loc>
     <lastmod>2024-02-09T16:38:36+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-02-09T16:38:36+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-02-09T16:38:36+08:00</lastmod>
   </url><url>
-    <loc>/photostories/2022/</loc>
+    <loc>//localhost:1313/photostories/2022/</loc>
     <lastmod>2022-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/mis/contact/</loc>
+    <loc>//localhost:1313/mis/contact/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/contact-us/</loc>
+    <loc>//localhost:1313/tags/contact-us/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/mis/</loc>
+    <loc>//localhost:1313/mis/</loc>
     <lastmod>2022-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/donors/</loc>
+    <loc>//localhost:1313/tags/donors/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/donors/</loc>
+    <loc>//localhost:1313/donors/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/donors/pearldonors/</loc>
+    <loc>//localhost:1313/donors/pearldonors/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pearls/</loc>
+    <loc>//localhost:1313/post/pearls/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/pearls/</loc>
+    <loc>//localhost:1313/tags/pearls/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/about-doctor-ho/</loc>
+    <loc>//localhost:1313/post/about-doctor-ho/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/fellows/</loc>
+    <loc>//localhost:1313/tags/fellows/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/foundraising/</loc>
+    <loc>//localhost:1313/foundraising/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/mis/letter/</loc>
+    <loc>//localhost:1313/mis/letter/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2nd/</loc>
+    <loc>//localhost:1313/post/2nd/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/3rd/</loc>
+    <loc>//localhost:1313/post/3rd/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/introduction/</loc>
+    <loc>//localhost:1313/tags/introduction/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/donors/donors2nd/</loc>
+    <loc>//localhost:1313/donors/donors2nd/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/donors/donors3rd/</loc>
+    <loc>//localhost:1313/donors/donors3rd/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/2004/</loc>
+    <loc>//localhost:1313/photostories/2004/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/2010/</loc>
+    <loc>//localhost:1313/photostories/2010/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/2013/</loc>
+    <loc>//localhost:1313/photostories/2013/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/2016/</loc>
+    <loc>//localhost:1313/photostories/2016/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/2019/</loc>
+    <loc>//localhost:1313/photostories/2019/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/book/</loc>
+    <loc>//localhost:1313/photostories/book/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/school/</loc>
+    <loc>//localhost:1313/photostories/school/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/photostories/signing/</loc>
+    <loc>//localhost:1313/photostories/signing/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/about-president-sah/</loc>
+    <loc>//localhost:1313/post/about-president-sah/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/donors/</loc>
+    <loc>//localhost:1313/post/donors/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/fellows/</loc>
+    <loc>//localhost:1313/post/fellows/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/news/</loc>
+    <loc>//localhost:1313/post/news/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
