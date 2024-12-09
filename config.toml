@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "SJTU Irving T. Ho Scholarships"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "5" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -23,6 +23,7 @@ publishDir = "docs"
   copyright = "SJTU Irving T. Ho Scholarships Group"
   post_meta = ["date", "categories"] # Order of post meta information
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  mainSections = ["photostories"] # Define main sections for the home page
 
 [Params.style.vars]
   fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
