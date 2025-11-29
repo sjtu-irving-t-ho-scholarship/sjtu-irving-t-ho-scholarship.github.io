@@ -2,6 +2,13 @@
 
 Theme: https://github.com/Vimux/Mainroad
 
+### Load the theme
+
+Please run the following command to load the theme:
+```bash
+git submodule update --init --recursive
+```
+
 ### Update the website
 
 > Make sure that you have [installed Hugo](https://gohugo.io/getting-started/quick-start/#prerequisites).

@@ -1,0 +1,4 @@
+/* Align table headers to the left in post content */
+.post__content table th {
+    text-align: left;
+}

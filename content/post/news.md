@@ -24,6 +24,7 @@ menu:
 [2019~2021](/photostories/2019) \
 [2022](/photostories/2022) \
 [2023](/photostories/2023) \
+[2024](/photostories/2024) \
 [Album](/img/photostory/Photo_album.pdf)
 
 ## book donation

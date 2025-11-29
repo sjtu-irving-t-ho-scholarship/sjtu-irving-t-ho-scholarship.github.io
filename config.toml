@@ -10,7 +10,7 @@ publishDir = "docs"
 [markup.goldmark.renderer]
   unsafe=true
 
-[Author]
+[Params.author]
   name = "SJTU Irving T. Ho Group"
 
 [Params]
@@ -24,6 +24,7 @@ publishDir = "docs"
   post_meta = ["date", "categories"] # Order of post meta information
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   mainSections = ["photostories"] # Define main sections for the home page
+  customCSS = ["css/custom.css"] # Path to custom CSS file(s)
 
 [Params.style.vars]
   fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"

@@ -92,5 +92,9 @@ menu:
 | Ms. Zhaohua Xu (徐兆桦) | S2024 | Shanghai Jiao Tong University |
 | Xiaoyang Lu (陆潇扬)    | S2024 | Shanghai Jiao Tong University |
 | Yongyu Zhang (张咏昱)   | S2024 | Shanghai Jiao Tong University |
+| Jiaming Cao (曹家鸣)   | S2025 | Shanghai Jiao Tong University |
+| Xuanqi Wang (王炫奇)   | S2025 | Shanghai Jiao Tong University |
+| Xinwei Qiang (强欣伟)  | S2025 | Shanghai Jiao Tong University |
+| Nanxi Li (李南锡)      | S2025 | Shanghai Jiao Tong University |
 
 **Please refer to [FELLOWS](https://irvingthofoundation.github.io/ho-fellows.htm) for fellows from other universities.**
